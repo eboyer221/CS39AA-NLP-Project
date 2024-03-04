@@ -1,5 +1,5 @@
 # RateMyProfessor NLP Analysis
-#This project was completed as part of Dr. Steven Geinitz's CS39AA Natural Language Processing course at the Metropolitan State University of Denver.
+This project was completed as part of Dr. Steven Geinitz's CS39AA - Natural Language Processing course at the Metropolitan State University of Denver.
 
 The majority, if not all, educational institutions employ student feedback as a means of evaluating their professors. This feedback typically comprises both ratings and open-ended comments from students. However, in most cases this information is kept confidential and isn't disclosed to either current or prospective students. RateMyProfessors.com (RMP) is one popular, publicly-available platform where students anonymously rate various facets of their instructors' performance, such as clarity, helpfulness, and easiness. Additionally, they can provide open-ended comments.
 
